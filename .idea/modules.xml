@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gebGradleProject.iml" filepath="$PROJECT_DIR$/.idea/modules/gebGradleProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gebGradleProject_main.iml" filepath="$PROJECT_DIR$/.idea/modules/gebGradleProject_main.iml" group="gebGradleProject" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gebGradleProject_test.iml" filepath="$PROJECT_DIR$/.idea/modules/gebGradleProject_test.iml" group="gebGradleProject" />
+    </modules>
+  </component>
+</project>
